@@ -158,9 +158,6 @@
     <None Include="res\shaders\shader.vs" />
     <None Include="res\shaders\shader1.fs" />
     <None Include="res\shaders\shader2.fs" />
-    <None Include="shader.vs" />
-    <None Include="shader1.fs" />
-    <None Include="shader2.fs" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="awesomeface.png" />

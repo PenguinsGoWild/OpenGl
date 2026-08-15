@@ -70,15 +70,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="shader.vs">
-      <Filter>Source Files</Filter>
-    </None>
-    <None Include="shader1.fs">
-      <Filter>Source Files</Filter>
-    </None>
-    <None Include="shader2.fs">
-      <Filter>Source Files</Filter>
-    </None>
     <None Include="res\shaders\shader.vs" />
     <None Include="res\shaders\shader1.fs" />
     <None Include="res\shaders\shader2.fs" />
